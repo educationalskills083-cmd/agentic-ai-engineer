@@ -1,30 +1,31 @@
-# Python & AI Basics
+# Agentic AI & Python Foundations
 
-This repository contains my practice work while learning Python and AI fundamentals.
+This repository documents my hands-on journey toward becoming an **Agentic AI Engineer**.
+It includes Python fundamentals, logical problem solving, and early AI + automation experiments.
 
-## What I have learned
-- Python basics (variables, conditions, loops, functions)
-- Logical thinking using Python
-- Writing clean and simple code
-- Using GitHub for version control
+---
 
-## Folder Structure
-/basics
-- hello_python.py
-- variables.py
-- conditions.py
-- loops.py
-- functions.py
+## 🚀 What I Have Learned
 
-## About Me
-I am a student learning Python and Artificial Intelligence.
-I am actively looking for **remote internships** to gain real-world experience.
+### Python & Programming
+- Variables, data types
+- Conditions & loops
+- Functions
+- Lists & tuples
+- Writing clean and readable code
 
-## Tools & Skills
-- Python
-- GitHub
+### Artificial Intelligence
 - AI fundamentals
-- Problem solving
+- Machine Learning (Intermediate)
+- Generative AI concepts
+- AI agents & agent-based thinking
 
-## Contact
-LinkedIn: (later add)
+### Automation & Agents
+- Building AI-powered automation using **Make.com**
+- Integrating OpenAI (ChatGPT) with Gmail
+- Creating and testing working AI agents
+- Understanding real-world automation workflows
+
+---
+
+
