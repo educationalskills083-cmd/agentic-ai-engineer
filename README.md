@@ -112,8 +112,5 @@ Now building real-world AI systems 🚀
 
 ⭐ **If you like my work, don’t forget to star the repo!**
 
-## 📫 Contact
-
-- LinkedIn: (https://www.linkedin.com/in/haseeb-nawaz-99355b395/)
 
 
