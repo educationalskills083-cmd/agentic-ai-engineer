@@ -66,6 +66,15 @@ I specialize in building **intelligent AI systems** that:
 - Fully automated scheduling  
 - Reminder system  
 
+### AI-Powered CV Screening & Recruitment Automation Agent
+- 🔥 Key Features:
+- Automatically receives job application emails
+- Extracts and reads CV/Resume using PDF parser
+- AI analyzes candidate skills & experience
+- Scores candidate out of 100
+- Auto-sends shortlist/rejection email
+- Saves all candidate data to Google Sheets
+  
 ---
 
 ## 🎓 Certifications
